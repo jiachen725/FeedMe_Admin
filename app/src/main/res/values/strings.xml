@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FeedME Admin</string>
+    <string name="enter_kg">Enter  Kg</string>
+    <string name="enter_g">Enter a number (g)</string>
+    <string name="confirmed_btn">Confirm</string>
+</resources>
